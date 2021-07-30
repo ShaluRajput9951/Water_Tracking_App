@@ -2,6 +2,8 @@
 
 Wonder How we can make an application to track the consumption of water.  using HTML CSS JS and by customising font-awesome icons directle in css? If No, this will be the perfect repo for you.
 
+###### **Here is the link of [Live Demo](https://waterconsumptiontracker.netlify.app/)**
+
 
 
 
